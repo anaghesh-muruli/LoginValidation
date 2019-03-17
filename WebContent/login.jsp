@@ -7,6 +7,7 @@
 <title>Login</title>
 </head>
 <body>
+test
 <form action=./readData.jsp>
 User Name: <input type="text" name="name">
 Password: <input type="text" name="pwd">
